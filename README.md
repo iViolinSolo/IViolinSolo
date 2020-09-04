@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![iViolinSolo's github stats](https://github-readme-stats.vercel.app/api?username=iViolinSolo&count_private=true)
